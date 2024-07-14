@@ -25,4 +25,5 @@ cd music-player
 - Next Button (⏭️): Skips to the next song in the playlist.
 - Progress Bar: Displays the current playback progress and allows users to seek to specific parts of the song by clicking
 
+![play, pause, next, prev, skip player](https://github.com/user-attachments/assets/e55ae053-a9fd-4a6e-b0d8-01f6b778e126)
 
