@@ -9,15 +9,6 @@ This project is a basic implementation of a music player using HTML, CSS, and Ja
 - Dynamic Song Display: Updates the song title and cover image based on the currently playing song.
 - Interactive Controls: Provides intuitive controls for seamless navigation through the playlist.
 
-## Installation
-1. Clone the repository:
-git clone https://github.com/your-username/music-player.git
-
-2. Navigate into the project directory:
-cd music-player
-
-3. Open index.html in your web browser.
-
 ## Functionality
 - Play Button (▶️): Starts playing the current song.
 - Pause Button (⏸️): Pauses the current song.
